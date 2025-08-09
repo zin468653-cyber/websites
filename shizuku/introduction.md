@@ -1,3 +1,4 @@
+![Screenshot_၂၀၂၅၀၈၀၈-၂၀၄၀၀၃_Mobile Legends Bang Bang](https://github.com/user-attachments/assets/39f6d2f3-5894-4a4c-8d37-7737ed0b8dab)
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
